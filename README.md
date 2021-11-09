@@ -1,0 +1,3 @@
+- 데이터 분석으로 심부전증 예방하기
+- 캐글 Heart Failure Prediction 데이터 사용
+- 데이터 출처: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
